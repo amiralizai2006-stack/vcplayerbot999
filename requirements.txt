@@ -3,7 +3,7 @@ autopep8
 pyaes
 pyasn1
 pycodestyle
-pyrogram==2.0.106
+pyrogram==1.4.16
 PySocks
 rsa
 TgCrypto
@@ -19,7 +19,6 @@ pymongo
 pytz
 r7insight-python
 urlextract
-uuid
 redis
 dnspython
 Pillow
