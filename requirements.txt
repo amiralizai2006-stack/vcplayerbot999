@@ -3,7 +3,7 @@ autopep8
 pyaes
 pyasn1
 pycodestyle
-pyrogram==1.4.16
+pyrogram==2.0.106
 PySocks
 rsa
 TgCrypto
